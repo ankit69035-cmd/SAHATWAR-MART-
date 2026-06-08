@@ -1,0 +1,6 @@
+{
+  "name": "Sahatwar Mart",
+  "description": "A production-ready village grocery delivery ecommerce platform for Sahatwar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
